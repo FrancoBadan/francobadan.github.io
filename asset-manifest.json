@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.12b1b94e.css",
+    "main.js": "/static/js/main.c2e6b445.js",
+    "static/media/envolver.png": "/static/media/envolver.c90a7585e19e9c06c00a.png",
+    "index.html": "/index.html",
+    "main.12b1b94e.css.map": "/static/css/main.12b1b94e.css.map",
+    "main.c2e6b445.js.map": "/static/js/main.c2e6b445.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12b1b94e.css",
+    "static/js/main.c2e6b445.js"
+  ]
+}

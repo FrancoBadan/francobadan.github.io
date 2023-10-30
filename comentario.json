@@ -1,0 +1,23 @@
+[
+  {
+    "id": 0,
+    "usuario": "Caballero Negro",
+    "email": "queteimporta@gmail.com",
+    "img": "./img/avatar.jpg",
+    "contenido": "Esta bueno el curso."
+  },
+  {
+    "id": 1,
+    "usuario": "Ultramarine",
+    "email": "ultrapitufo@gmail.com",
+    "img": "./img/4db024cc9a08743d713d2f18869f0cbc.jpg",
+    "contenido": "Aprendi tanto que me llamaron a trabajar en google de martes."
+  },
+  {
+    "id": 2,
+    "usuario": "Legion Alfa",
+    "email": "soyalfarius@gmail.com",
+    "img": "./img/05d3fd3ee15882acfc5b48ff6812d1d8.jpg",
+    "contenido": "Aguante el html. Soy alpharius"
+  }
+]

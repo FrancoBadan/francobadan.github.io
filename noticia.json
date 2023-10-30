@@ -1,0 +1,23 @@
+[
+  {
+    "id": 0,
+    "titulo": "Un juegazo apra aprender css",
+    "resumen": "Css sushi es un juegazo apra aprender css. Puedes acceder al mismo",
+    "img": "./img/sushi.jpg",
+    "link": "https://flukeout.github.io/"
+  },
+  {
+    "id": 1,
+    "titulo": "Digitallers es la mejor propuesta de capacitacion",
+    "resumen": " Queres ser un Mechanicus del frontend? Que estas esperando. El programa digitalers es tu oportunidad",
+    "img": "./img/mecanicus.jpg",
+    "link": "https://www.google.com/"
+  },
+  {
+    "id": 2,
+    "titulo": "Una IA crea los simpsons en la vida real",
+    "resumen": "Se le pidio a una IA que retrate a los simpson en la vida real y esto es lo que salio.",
+    "img": "./img/moe.jpeg",
+    "link": "https://www.google.com/"
+  }
+]
